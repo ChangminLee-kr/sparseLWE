@@ -3,7 +3,7 @@
 This repository implements three algorithms for solving the Integer_LWE problem:
 - **Our Algorithm**
 - **NMW+24**: [The cool and the cruel: separating hard parts of lwe secrets](https://eprint.iacr.org/2024/443.pdf)
-- **CCP+24**: [Attacks against the INDCPA-D security of exact FHE schemes]( https://eprint.iacr.org/2024/127 )
+- **CCP+24**: [Attacks against the INDCPA-D security of exact FHE schemes]( https://eprint.iacr.org/2024/127.pdf )
 
 ## Parameters
 
